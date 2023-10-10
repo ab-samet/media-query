@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a:hover{
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+nav a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0.5rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+}
+@media screen and (max-width: 1920px) {
+    
+}
